@@ -103,6 +103,3 @@ An end-to-end Business Intelligence dashboard built using SQL and Power BI to an
 
 * Global_Ecommerce_PowerBI_Dashboard.pbix
 * screenshots/
-
-
-**Priyanka Gounder**
